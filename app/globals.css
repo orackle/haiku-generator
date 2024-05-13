@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -15,7 +17,9 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
+*
+{
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
@@ -30,4 +34,51 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+
+.haiku {
+  font-family: 'Garamond', sans-serif;
+  white-space: pre-line;
+  /* opacity: 0; /* Initially hide the container */
+  /* transition: opacity 0.5s ease; Add transition for opacity */
+ /* */ 
+
+}
+
+.italiana-regular {
+  font-family: "Italiana", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.fade-in {
+  opacity: 1; /* Show the container with fade-in effect */
+}
+
+.result-container {
+}
+
+
+/* styles.css */
+.font-italiana {
+  font-family: 'Italiana', sans-serif;
+}
+.row-enter {
+  opacity: 0;
+}
+
+.row-enter-active {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+
+.row-exit {
+  opacity: 1;
+}
+
+.row-exit-active {
+  opacity: 0;
+  transition: opacity 300ms;
 }
