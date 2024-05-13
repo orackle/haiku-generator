@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Welcome to your friendly haiku generator! Shoot us a prompt and we send you personalized haikus that you can download, share and save!
+
+![image](https://github.com/orackle/haiku-generator/assets/42990726/f30ec906-4123-4467-a4c9-be78cbd1f63d)
 
 ## Getting Started
 
