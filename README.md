@@ -1,8 +1,10 @@
 
-Welcome to your friendly haiku generator! Shoot us a prompt and we send you personalized haikus that you can download, share and save!
+Welcome to your friendly haiku writer! Shoot us a prompt and we send you personalized haikus that you can download, share and save!
 
 ![image](https://github.com/orackle/haiku-generator/assets/42990726/f30ec906-4123-4467-a4c9-be78cbd1f63d)
 
+
+can be reached at [https://haiku-generator-omega.vercel.app/](https://haiku-generator-omega.vercel.app/)
 ## Getting Started
 
 First, run the development server:
