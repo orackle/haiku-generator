@@ -32,7 +32,7 @@ export default function DeleteHaiku({ textContent }) {
         <div>
             {showAlert && (
                 <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center text-red-500">
-                    Haiku deleted successfully! You won&apos;t see it again on next reload.
+                    Haiku deleted successfully! You will not see it again on next reload.
                 </div>
             )}
             <button onClick={handleDeleteHaiku} className="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded">Delete</button>
