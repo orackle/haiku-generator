@@ -1,7 +1,7 @@
 
 Welcome to your friendly haiku writer! Shoot us a prompt and we send you personalized haikus that you can download, share and save!
 
-![image](https://github.com/orackle/haiku-generator/assets/42990726/a20ea3be-c5a8-4617-81d9-fa0c0ce7eca3)
+![image](https://github.com/orackle/haiku-generator/assets/42990726/3533d228-480f-4de8-91b3-ca39fc7539bc)
 
 
 can be reached at [https://haiku-generator-omega.vercel.app/](https://haiku-generator-omega.vercel.app/)
